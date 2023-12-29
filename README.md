@@ -1,11 +1,10 @@
-<div style="background-image: url('path/to/your/image.jpg'); background-size: cover; background-repeat: no-repeat; height: 300px;">
-===
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Izanami
 ===============================================================================================================================
 
 Game Developer and Web Developer
 --------------------------------
 
+# <span style="color: blue;">This is a blue heading.</span>
 Im a Grade 11 Student at Sanfrancisco High School, I've been learning to code since 2019 because i want to be a good game developer.
 
 * 🌍  I'm based in phillipines
@@ -34,5 +33,3 @@ src="https://img.shields.io/github/followers/IzanamiiDevv?logo=github&style=for-
 
 ### My Love
 ![My Love](395399432_877894773977044_2173109860317379227_n.jpg)
-===
-</div>
