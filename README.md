@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer and Web Developer
 --------------------------------
 
-# <span style="color: blue;">This is a blue heading.</span>
 Im a Grade 11 Student at Sanfrancisco High School, I've been learning to code since 2019 because i want to be a good game developer.
 
 * 🌍  I'm based in phillipines
