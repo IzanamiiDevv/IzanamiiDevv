@@ -10,7 +10,7 @@ Im a Grade 11 Student at Sanfrancisco High School, I've been learning to code si
 * ✉️  You can contact me at [rafaeloli596@gmail.com](mailto:rafaeloli596@gmail.com)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Procedural Animation
-* ⚡  I love Mhai
+* ⚡  Crush ko si Swane
 
 <a href="https://www.github.com/IzanamiiDevv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IzanamiiDevv?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
@@ -30,5 +30,5 @@ src="https://img.shields.io/github/followers/IzanamiiDevv?logo=github&style=for-
 ### CodeWars Stats
 ![CodeWars](Screenshot%202023-12-09%20000407.png)
 
-### My Love
-![My Love](395399432_877894773977044_2173109860317379227_n.jpg)
+<!--### My Love->-->
+<!--![My Love](395399432_877894773977044_2173109860317379227_n.jpg)-->
