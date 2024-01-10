@@ -1,4 +1,9 @@
-.content{display: none;} .content:target{display: block;}
+.content{
+  display: none;
+}
+.content:target{
+  display: block;
+}
 
 h1{
 color:blue;
