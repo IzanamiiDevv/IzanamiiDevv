@@ -41,6 +41,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,python" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vue,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,stackoverflow" />
+    
     
     
 </div>
