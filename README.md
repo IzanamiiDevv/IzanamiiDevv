@@ -38,8 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,python" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vue,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vue,dotnet,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,stackoverflow,unity" />
     
     
     
