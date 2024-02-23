@@ -1,4 +1,4 @@
-7<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Izanami!;" />
@@ -75,4 +75,4 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?izanamiiDevv=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=radical)
