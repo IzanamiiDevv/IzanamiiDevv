@@ -75,7 +75,7 @@
 <hr>
 
 <div align='center'>
-# 📊 GitHub Stats:
+<h1>📊 GitHub Stats:</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=izanamiiDevv&theme=tokyonight&hide_border=false)<br/>
