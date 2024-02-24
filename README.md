@@ -78,7 +78,8 @@
 
 <hr>
 
-# 📊 GitHub Stats:
+<div align='center'>
+    # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=izanamiiDevv&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=izanamiiDevv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -90,3 +91,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=izanamiiDevv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=izanamiiDevv&icon=5&color=1)](https://visitcount.itsvg.in)
+</div>
