@@ -40,9 +40,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,python,php,haskell" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,docker" /><br>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,stackoverflow,unity,discord" />
-    
-    
-    
 </div>
 
 <br/>
@@ -84,10 +81,12 @@
 <hr>
 
 <div align='center'>
-# 📊 GitHub Stats:
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=izanamiiDevv&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=izanamiiDevv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=izanamiiDevv&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
