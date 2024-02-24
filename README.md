@@ -90,9 +90,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=izanamiiDevv&icon=5&color=1)](https://visitcount.itsvg.in)
 </div>
-
-<div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));gap: 10px;">
-    <div>Item 1</div>
-    <div>Item 2</div>
-    <div>Item 3</div>
-</div>
