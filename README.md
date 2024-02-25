@@ -77,7 +77,7 @@
 <div align='center'>
 <h1>📊 GitHub Stats:</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=izanamiiDevv&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=izanamiiDevv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
