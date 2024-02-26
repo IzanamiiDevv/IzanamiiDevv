@@ -44,17 +44,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ SocialMedia Platforms ⚡</h2>
 
 <div align="center">
@@ -87,3 +76,11 @@
  <a href="http://www.github.com/autruonggiang"> 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=izanamiiDevv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> 
  </a>
+
+ <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
