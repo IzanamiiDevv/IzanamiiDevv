@@ -53,7 +53,7 @@
 <hr/>
 
  
- <h1>Githuv Stats</h1>
+ <h1>Github Stats</h1>
  <table> 
      <tr> 
          <td> 
