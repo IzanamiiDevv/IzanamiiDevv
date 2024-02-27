@@ -53,7 +53,7 @@
 <hr/>
 
  
- ## My GitHub Stats 
+ 
  <table> 
      <tr> 
          <td> 
