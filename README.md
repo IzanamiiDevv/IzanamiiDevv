@@ -77,7 +77,6 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=izanamiiDevv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> 
  </a>
 
-![Codewars](https://github.r2v.ch/codewars?user=IzanamiiDevv&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 <hr>
 
