@@ -71,7 +71,6 @@
              <img src="https://github-profile-trophy.vercel.app/?username=izanamiiDevv&theme=onestar&row=3&column=4" alt="autruonggiang" /> 
          </td>
          <td>
-
 ![Codewars](https://github.r2v.ch/codewars?user=izanamiii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) 
          </td>
      </tr> 
