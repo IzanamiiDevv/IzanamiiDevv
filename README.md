@@ -72,7 +72,7 @@
          </td>
          <td>
 
-![Codewars](https://github.r2v.ch/codewars?user=izanamiii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) 
+<img src="https://github.r2v.ch/codewars?user=izanamiii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark">
          </td>
      </tr> 
  </table> 
