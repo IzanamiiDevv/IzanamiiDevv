@@ -78,8 +78,8 @@
  </a>
  
 ![Codewars](https://github.r2v.ch/codewars?user=izanamiii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
-<span color="yellow">NOTE:</span> This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+<br>
+NOTE:This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 <hr>
 
  <div align="center">
