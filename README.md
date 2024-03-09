@@ -4,23 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Izanami!;+Im+From+Phillipines;"/>
 </h1>
 
-<h3 align="center">
-<img src="assets\meowh1.png" width="25"/>A passionate Game Developer from Phillipines!<img src="assets\meow_ph.png" width="25"/>
-</h3>
+<h2 align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> A passionate Web <br/> and Game Developer!
+</h2>
 
 <br/>
 
 <div align="center">
- 
-  <img src="assets\meow_code.png" width="20"/> 
+
   I’m currently working on **One Hundred Repositories** 🔭
-<br/>
- <img src="assets\meow_ph.png" width="20"/>
+  
   I’m currently learning **Advance React, mySQL, PHP** 🌱
 
  💬Ask me about **Node.js, Express, Technology... or anything [here](https://github.com/IzanamiiDevv)**
 
- <img src="assets\meow_coffee.png" width="20"/>
  Fun fact **C# is my Favorite Language**⚡
 
  </div>
