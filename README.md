@@ -5,14 +5,14 @@
 </h1>
 
 <h3 align="center">
-<img src="assets\meowh1.gif" width="25"/>A passionate Game Developer from Phillipines!<img src="assets\meow_ph.png" width="25"/>
+<img src="assets\meowh1.png" width="25"/>A passionate Game Developer from Phillipines!<img src="assets\meow_ph.png" width="25"/>
 </h3>
 
 <br/>
 
 <div align="center">
  
-  <img src="assets\meow_code.gif" width="20"/> 
+  <img src="assets\meow_code.png" width="20"/> 
   I’m currently working on **One Hundred Repositories** 🔭 
 
  <img src="assets\meow_ph.png" width="20"/>
