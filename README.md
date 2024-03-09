@@ -12,13 +12,16 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **One Hundred Repositories**
- 
- 🌱 I’m currently learning **Advance React, mySQL, PHP**
+  <img src="assets\meow_code.gif" width="20"/> 
+  I’m currently working on **One Hundred Repositories** 🔭 
 
-💬 Ask me about **Node.js, Express, Technology... or anything [here](https://github.com/IzanamiiDevv)**
+ <img src="assets\meow_ph.png" width="20"/>
+  I’m currently learning **Advance React, mySQL, PHP** 🌱
 
-⚡ Fun fact **C# is my Favorite Language**
+ 💬Ask me about **Node.js, Express, Technology... or anything [here](https://github.com/IzanamiiDevv)**
+
+ <img src="assets\meow_coffee.png" width="20"/>
+ Fun fact **C# is my Favorite Language**⚡
 
  </div>
  
