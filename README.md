@@ -55,7 +55,7 @@
 <hr/>
 
  
-<h1 align="center">My Stats!</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/> My Stats! <img src="https://emojis.slackmojis.com/emojis/images/1706292391/88200/catballq.gif?1706292391" width="30"/></h1>
 <table>
     <tr>
         <td>
