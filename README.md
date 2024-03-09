@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Izanami!;+Im+From+Phillipines;"/>
 </h1>
 
-<h3 align="center">A passionate Game Developer from Phillipines!</h3>
+<h3 align="center">
+<img src="assets\meowh1.gif" width="25"/>A passionate Game Developer from Phillipines!<img src="assets\meow_ph.png" width="25"/>
+</h3>
 
 <br/>
 
