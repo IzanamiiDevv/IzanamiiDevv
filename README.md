@@ -39,8 +39,8 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,python,php,cpp,java,c" />
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,python,php,cpp,java,c" /><br>
+    <img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css,javascript,typescript,cs,python,php,cpp,java,c" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws" />
 </div>
