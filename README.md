@@ -47,9 +47,9 @@
    <a href=""><img src="https://skillicons.dev/icons?i=python"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=php"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=cpp"/></a>
-   <a href=""><img src="https://skillicons.dev/icons?i=c"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=java"/></a>
-<img src="https://skillicons.dev/icons?i=css,javascript,typescript,cs,python,php,cpp,java,c" /><br>
+   <a href=""><img src="https://skillicons.dev/icons?i=c"/></a>
+<br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws" />
 </div>
