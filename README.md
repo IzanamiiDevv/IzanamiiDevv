@@ -39,7 +39,16 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html" />
+   <a href=""><img src="https://skillicons.dev/icons?i=html"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=css"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=javascript"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=typescript"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=cs"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=python"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=php"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=cpp"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=c"/></a>
+   <a href=""><img src="https://skillicons.dev/icons?i=java"/></a>
 <img src="https://skillicons.dev/icons?i=css,javascript,typescript,cs,python,php,cpp,java,c" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws" />
