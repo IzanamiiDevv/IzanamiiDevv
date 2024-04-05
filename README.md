@@ -38,6 +38,7 @@
  
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
+**Languages***
 <div align="center">
    <a href=""><img src="https://skillicons.dev/icons?i=html"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=css"/></a>
