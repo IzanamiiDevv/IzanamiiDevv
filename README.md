@@ -37,8 +37,9 @@
  <hr/>
  
 <h2 align="center">⚒️ Skills ⚒️</h2>
-<br/>
-**Languages***
+
+<h2 align="center">Languages</h2>
+
 <div align="center">
    <a href=""><img src="https://skillicons.dev/icons?i=html"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=css"/></a>
@@ -51,6 +52,7 @@
    <a href=""><img src="https://skillicons.dev/icons?i=java"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=c"/></a>
 <br>
+<b>Click the Language to see the project it includes</b>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws" />
 </div>
