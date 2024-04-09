@@ -40,7 +40,7 @@
 <h3 align="center">Languages</h3>
 
 <div align="center">
-   <a href=""><img src="https://skillicons.dev/icons?i=html"/></a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/html"><img src="https://skillicons.dev/icons?i=html"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=css"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=javascript"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=typescript"/></a>
