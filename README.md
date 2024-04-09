@@ -52,8 +52,7 @@
    <a href=""><img src="https://skillicons.dev/icons?i=java"/></a>
    <a href=""><img src="https://skillicons.dev/icons?i=c"/></a>
 <br>
-Click the **Icons** to see the Project it Includes
-<hr>
+<p> Click the <b>Icons</b> to see the Project it Includes </p>
 <h3>Module and Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws" />
