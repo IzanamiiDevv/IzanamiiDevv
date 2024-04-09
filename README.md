@@ -41,15 +41,15 @@
 
 <div align="center">
    <a href="https://github.com/stars/IzanamiiDevv/lists/html"><img src="https://skillicons.dev/icons?i=html"/></a>
-   <a href=""><img src="https://skillicons.dev/icons?i=css"/></a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/css"><img src="https://skillicons.dev/icons?i=css"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/javascript-typescript"><img src="https://skillicons.dev/icons?i=javascript"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/javascript-typescript"><img src="https://skillicons.dev/icons?i=typescript"/></a>
-   <a href=""><img src="https://skillicons.dev/icons?i=cs"/></a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/c"><img src="https://skillicons.dev/icons?i=cs"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/python"><img src="https://skillicons.dev/icons?i=python"/></a>
-   <a href=""><img src="https://skillicons.dev/icons?i=php"/></a>
-   <a href=""><img src="https://skillicons.dev/icons?i=cpp"/></a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/php"><img src="https://skillicons.dev/icons?i=php"/></a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=cpp"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/java"><img src="https://skillicons.dev/icons?i=java"/></a>
-   <a href=""><img src="https://skillicons.dev/icons?i=c"/></a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=c"/></a>
 <br>
 <p> Click the <b>Icons</b> to see the Project it Includes </p>
 <h3>Module and Frameworks</h3>
