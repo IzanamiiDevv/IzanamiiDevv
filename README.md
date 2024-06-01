@@ -50,12 +50,11 @@
    <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=cpp"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/java"><img src="https://skillicons.dev/icons?i=java"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=c"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=assembly"/></a>
 <br>
 <p> Click the <b>Icons</b> to see the Project it Includes </p>
 <h3>Module and Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws" />
+    <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws,idea" />
 </div>
 
 <br/>
