@@ -50,6 +50,7 @@
    <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=cpp"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/java"><img src="https://skillicons.dev/icons?i=java"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=c"/></a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=rust"/></a>
 <br>
 <p> Click the <b>Icons</b> to see the Project it Includes </p>
 <h3>Tools and Frameworks</h3>
