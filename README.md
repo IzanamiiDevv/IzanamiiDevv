@@ -14,7 +14,7 @@
 
   I’m currently working on **One Hundred Repositories** 🔭
   
-  I’m currently learning **Advance React, mySQL, PHP** 🌱
+  I’m currently learning **Advance React, Rust, C** 🌱
 
  💬Ask me about **Node.js, Express, Technology... or anything [here](https://github.com/IzanamiiDevv)**
 
