@@ -54,7 +54,7 @@
 <br>
 <p> Click the <b>Icons</b> to see the Project it Includes </p>
 <h3>Tools and Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb,regex" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb,regex,tauri" /><br>
     <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws,idea" />
 </div>
 
