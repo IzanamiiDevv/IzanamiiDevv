@@ -14,11 +14,11 @@
 
   I’m currently working on **One Hundred Repositories** 🔭
   
-  I’m currently learning **Advance React, Rust, Lua** 🌱
+  I’m currently learning **Advance PHP, Laravel, Lua** 🌱
 
  💬Ask me about **Node.js, Express, Technology... or anything [here](https://github.com/IzanamiiDevv)**
 
- Fun fact **C# is my Favorite Language**⚡
+ Fun fact **C++ is my Favorite Language**⚡
 
  </div>
  
