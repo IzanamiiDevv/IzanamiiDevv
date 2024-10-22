@@ -53,6 +53,7 @@
    <a href="https://github.com/stars/IzanamiiDevv/lists/rust"><img src="https://skillicons.dev/icons?i=rust"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/lua"><img src="https://skillicons.dev/icons?i=lua"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/go"><img src="https://skillicons.dev/icons?i=go"/></a>
+<a href="https://github.com/stars/IzanamiiDevv/lists/go"><img src="https://skillicons.dev/icons?i=haskell"/></a>
 <br>
 <p> Click the <b>Icons</b> to see the Project it Includes </p>
 <h3>Tools and Frameworks</h3>
