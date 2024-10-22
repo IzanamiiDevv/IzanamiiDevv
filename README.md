@@ -18,6 +18,8 @@
 
  💬Ask me about **Node.js, Express, Technology... or anything [here](https://github.com/IzanamiiDevv)**
 
+  I love Gabrielle
+
  Fun fact **C++ is my Favorite Language**⚡
 
  </div>
