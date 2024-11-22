@@ -24,15 +24,23 @@
 
 <div align="center">
 
-  I’m currently working on **One Hundred Repositories** 🔭
-  
-  I’m currently learning **Advance PHP, Laravel, Lua** 🌱
+```cpp
 
- 💬Ask me about **Node.js, Express, Technology... or anything [here](https://github.com/IzanamiiDevv)**
+int main() {
+    const char* name = "Izanamii";
+    unsigned char age = 17;
 
-  I love Gabrielle
+    std::map<std::string, std::string> Details;
+    Details["Working on"] = "Enchancing my Knowledge🔭";
+    Details["FavoriteLanguage"] = "C++⚡";
+    Details["I Love"] = "Gabrielle";
 
- Fun fact **C++ is my Favorite Language**⚡
+    print_details(Details, name, age);
+
+    return 0;
+}
+
+```
 
  </div>
  
@@ -40,11 +48,18 @@
   <a href="mailto:rafaeloli596@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="mailto:rafaeloli596@gmail.com">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-  <a href="https://izanamiidevv.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="mailto:rafaeloli596@gmail.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <br/>
+  <a href="mailto:rafaeloli596@gmail.com">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:rafaeloli596@gmail.com">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -77,16 +92,6 @@
 </div>
 
 <br/>
-<hr/>
-<h2 align="center">⚡ SocialMedia Platforms ⚡</h2>
-
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-</div>
 
 <hr/>
 
