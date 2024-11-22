@@ -55,13 +55,17 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
+<br/>
+ <div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
 
- <hr/>
+<br/>
+<hr/>
  
-<h2 align="center">⚒️ Skills ⚒️</h2>
-<h3 align="center">Languages</h3>
-
+<h2 align="center">⚒️ Technologies ⚒️</h2>
 <div align="center">
+   <h3>Languages</h3>
    <a href="https://github.com/stars/IzanamiiDevv/lists/html"><img src="https://skillicons.dev/icons?i=html"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/css"><img src="https://skillicons.dev/icons?i=css"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/javascript-typescript"><img src="https://skillicons.dev/icons?i=javascript"/></a>
@@ -77,19 +81,23 @@
    <a href="https://github.com/stars/IzanamiiDevv/lists/go"><img src="https://skillicons.dev/icons?i=go"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/haskell"><img src="https://skillicons.dev/icons?i=haskell"/></a>
    <a href="https://github.com/stars/IzanamiiDevv/lists/scala"><img src="https://skillicons.dev/icons?i=scala"/></a>
-<br>
-<p> Click the <b>Icons</b> to see the Project it Includes </p>
-<h3>Tools and Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb,regex,tauri" /><br>
-    <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws,idea" />
+   <br>
+   <p> Click the <b>Icons</b> to see the Project it Includes </p>
+
+   <h3>Tools and Frameworks</h3>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb,regex,tauri" /><br>
+   <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws,idea" />
 </div>
 
 <br/>
-
 <hr/>
 
  
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30"/> My Stats! <img src="https://emojis.slackmojis.com/emojis/images/1706292391/88200/catballq.gif?1706292391" width="30"/></h1>
+
+> [!IMPORTANT]
+> This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
 <table>
     <tr>
         <td>
@@ -119,16 +127,7 @@
 </a>
 
 <br>
-<b>NOTE:</b> This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 <hr>
-
- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
 
 ---
 
