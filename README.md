@@ -148,6 +148,16 @@
     src="https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=calm"
   />
   <br />
+  <img 
+  width="380"
+  align="left"
+  src="https://github.r2v.ch/codewars?user=izanamiii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark">
+  <br />
+  <img 
+  width="380"
+  align="left"
+  src="https://github-profile-trophy.vercel.app/?username=izanamiiDevv&theme=onestar&row=3&column=4" alt="IzanamiiDevv" /> 
+  <br />
   <img
     width="380"
     align="left"
