@@ -1,8 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=izanamiiDevv.izanamiiDevv"/>
+<p align="right">
+      <img align="center" src="https://komarev.com/ghpvc/?username=izanamiiDevv&style=flat-square&base=500" />
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Izanami!;+Im+From+Phillipines;"/>
-</h1>
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="
+    https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+CODING
+  "
+/>
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="
+    https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+CODING
+  "
+/>
+<img
+  alt="Star History Chart"
+  src="
+    https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+CODING
+  "
+/>
 
 <h2 align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> A Passionate Software Engineer<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
@@ -122,27 +139,6 @@
 </div>
 
 ---
-<p align="right">
-      <img align="center" src="https://komarev.com/ghpvc/?username=izanamiiDevv&style=flat-square&base=500" />
-</p>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="
-    https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE
-    "
-/>
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="
-    https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE
-  "
-/>
-<img
-  alt="Star History Chart"
-  src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=I+LOVE+OPEN+SOURCE"
-/>
-</p>
 
 <p align="center">
   <a href="https://github.com/lowlighter/metrics">
@@ -169,17 +165,5 @@
     align="left"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=Software+Engineer."
   />
-  <br />
-    <img
-      align="left"
-     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-    <img
-     align="left"
-     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-    <img
-     align="left"
-     src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
-    <img
-     align="left"
-     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
 </p>
