@@ -153,13 +153,13 @@
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
+    src="https://github-readme-stats.vercel.app/api?username=izanamiiDevv&show_icons=true&theme=calm"
   />
    <a href="https://wakatime.com/@9763e2a8-f66d-42c7-8668-f6ba4332829e">
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=izanamiiDevv&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
   />
   <br />
   <img
@@ -170,5 +170,5 @@
 </p>
 
 <p align="center">
-      <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&base=500" />
+      <img align="center" src="https://komarev.com/ghpvc/?username=izanamiiDevv&style=flat-square&base=500" />
 </p>
