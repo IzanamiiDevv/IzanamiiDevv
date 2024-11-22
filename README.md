@@ -22,25 +22,18 @@
 
 <br/>
 
+
 <div align="center">
 
-```cpp
+  I’m currently working on **One Hundred Repositories** 🔭
+  
+  I’m currently learning **Advance PHP, Laravel, Lua** 🌱
 
-int main() {
-    const char* name = "Izanamii";
-    unsigned char age = 17;
+ 💬Ask me about **C/C++, Programming, Technology... or anything [here](https://www.facebook.com/izanamiii1)**
 
-    std::map<std::string, std::string> Details;
-    Details["Working on"] = "Enchancing my Knowledge🔭";
-    Details["FavoriteLanguage"] = "C++⚡";
-    Details["I Love"] = "Gabrielle";
+  I love **Gabrielle**
 
-    print_details(Details, name, age);
-
-    return 0;
-}
-
-```
+  Fun fact **C/C++ is my Favorite Language**⚡
 
  </div>
  
@@ -48,17 +41,17 @@ int main() {
   <a href="mailto:rafaeloli596@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="mailto:rafaeloli596@gmail.com">
+  <a href="https://www.facebook.com/izanamiii1">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:rafaeloli596@gmail.com">
+  <a href="https://www.instagram.com/izanamii.cpp/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <br/>
-  <a href="mailto:rafaeloli596@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:rafaeloli596@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
