@@ -159,7 +159,7 @@
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=izanamiiDevv&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=IzanamiiDevv&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
   />
   <br />
   <img
