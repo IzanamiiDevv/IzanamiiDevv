@@ -63,28 +63,71 @@
 <br/>
 <hr/>
  
-<h2 align="center">⚒️ Technologies ⚒️</h2>
+<h2 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=450&height=100&repeat=false&lines=My+Technologies."
+  />
+</h2>
+
 <div align="center">
-   <h3>Languages</h3>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/html"><img src="https://skillicons.dev/icons?i=html"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/css"><img src="https://skillicons.dev/icons?i=css"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/javascript-typescript"><img src="https://skillicons.dev/icons?i=javascript"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/javascript-typescript"><img src="https://skillicons.dev/icons?i=typescript"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/c"><img src="https://skillicons.dev/icons?i=cs"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/python"><img src="https://skillicons.dev/icons?i=python"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/php"><img src="https://skillicons.dev/icons?i=php"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=cpp"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/java"><img src="https://skillicons.dev/icons?i=java"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c"><img src="https://skillicons.dev/icons?i=c"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/rust"><img src="https://skillicons.dev/icons?i=rust"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/lua"><img src="https://skillicons.dev/icons?i=lua"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/go"><img src="https://skillicons.dev/icons?i=go"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/haskell"><img src="https://skillicons.dev/icons?i=haskell"/></a>
-   <a href="https://github.com/stars/IzanamiiDevv/lists/scala"><img src="https://skillicons.dev/icons?i=scala"/></a>
+   <h3>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=200&height=50&repeat=false&lines=Languages"
+    />
+   </h3>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/html">
+    <img title="Hyper Text Markup Language" src="https://skillicons.dev/icons?i=html"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/css">
+    <img title="Cascading Style Sheet" src="https://skillicons.dev/icons?i=css"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/javascript-typescript">
+    <img title="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/javascript-typescript">
+    <img title="TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/c">
+    <img title="C#" src="https://skillicons.dev/icons?i=cs"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/python">
+    <img title="Python" src="https://skillicons.dev/icons?i=python"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/php">
+    <img title="PHP" src="https://skillicons.dev/icons?i=php"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c">
+    <img title="C++" src="https://skillicons.dev/icons?i=cpp"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/java">
+    <img title="Java" src="https://skillicons.dev/icons?i=java"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/c-c">
+    <img title="C" src="https://skillicons.dev/icons?i=c"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/rust">
+    <img title="Rust" src="https://skillicons.dev/icons?i=rust"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/lua">
+    <img title="Lua" src="https://skillicons.dev/icons?i=lua"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/go">
+    <img title="Go" src="https://skillicons.dev/icons?i=go"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/haskell">
+    <img title="Haskell" src="https://skillicons.dev/icons?i=haskell"/>
+   </a>
+   <a href="https://github.com/stars/IzanamiiDevv/lists/scala">
+    <img title="Scala" src="https://skillicons.dev/icons?i=scala"/>
+   </a>
    <br>
    <p> Click the <b>Icons</b> to see the Project it Includes </p>
 
-   <h3>Tools and Frameworks</h3>
+   <h3>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=200&height=50&repeat=false&lines=Frameworks"
+    />
+   </h3>
    <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet,mysql,wasm,npm,mongodb,regex,tauri" /><br>
    <img src="https://skillicons.dev/icons?i=github,vercel,git,vscode,stackoverflow,unity,discord,aws,idea" />
 </div>
