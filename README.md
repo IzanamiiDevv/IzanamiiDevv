@@ -31,7 +31,7 @@
 
  💬Ask me about **C/C++, Programming, Technology... or anything [here](https://www.facebook.com/izanamiii1)**
 
-  I love **Gabrielle**
+ 
 
   Fun fact **C/C++ is my Favorite Language**⚡
 
