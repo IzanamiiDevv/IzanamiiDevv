@@ -65,7 +65,7 @@
  
 <h2 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=450&height=100&repeat=false&lines=My+Queen+Gabrielle."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=450&height=100&repeat=false&lines=My+Queen+Mhai."
   />
 </h2>
 
