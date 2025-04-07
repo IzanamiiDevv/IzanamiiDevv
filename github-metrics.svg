@@ -1269,10 +1269,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">CLIENT</span></div>
+                                    <div>on branch <span class="code">TARGET</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2857002</div>
-                                        <div class="message">Add Script</div>
+                                        <div class="sha">#679ceac</div>
+                                        <div class="message">Add Files</div>
                                     </div>
                                 </div>
                             </section>
@@ -1291,8 +1291,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">CLIENT</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98794c9</div>
-                                        <div class="message">Add Simple Script</div>
+                                        <div class="sha">#8f688c9</div>
+                                        <div class="message">Update cyvo.py</div>
                                     </div>
                                 </div>
                             </section>
@@ -1306,7 +1306,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">CLIENT</span>
+                                        <span class="code">TARGET</span>
                                         in
                                         <span class="repo">IzanamiiDevv/Cyvo</span>
                                     </div>
