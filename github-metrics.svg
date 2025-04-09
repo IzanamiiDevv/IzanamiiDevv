@@ -1281,8 +1281,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">TARGET</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5b7a51d</div>
-                                        <div class="message">Delete buffer.txt</div>
+                                        <div class="sha">#dd5c46d</div>
+                                        <div class="message">change some script</div>
                                     </div>
                                 </div>
                             </section>
@@ -1301,8 +1301,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">TARGET</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4eaa8f8</div>
-                                        <div class="message">add httplib</div>
+                                        <div class="sha">#3a54adc</div>
+                                        <div class="message">add build file</div>
                                     </div>
                                 </div>
                             </section>
@@ -1319,10 +1319,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">CLIENT</span></div>
+                                    <div>on branch <span class="code">TARGET</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9c1b9c6</div>
-                                        <div class="message">add script</div>
+                                        <div class="sha">#5b7a51d</div>
+                                        <div class="message">Delete buffer.txt</div>
                                     </div>
                                 </div>
                             </section>
